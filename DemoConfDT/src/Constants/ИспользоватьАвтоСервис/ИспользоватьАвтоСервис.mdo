@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="797924b6-a16e-455e-a05f-6df9434ecb0e">
+  <producedTypes>
+    <managerType typeId="bece9d55-7ec7-4311-8d58-ea86a95fd375" valueTypeId="7ef69b7f-905b-4887-a34e-d8a67b8dc1a7"/>
+    <valueManagerType typeId="843e1927-82f2-4d8b-8f93-4484c32089f1" valueTypeId="6e89eb21-03e6-4e51-a09d-281a8bc980bd"/>
+    <valueKeyType typeId="83571b9b-8f49-4336-9808-3b6332b7e1ce" valueTypeId="9b08224b-45db-4fab-9e0c-fa3f9e5dd993"/>
+  </producedTypes>
+  <name>ИспользоватьАвтоСервис</name>
+  <synonym>
+    <key>ru</key>
+    <value>Использовать авто сервис</value>
+  </synonym>
+  <type>
+    <types>Boolean</types>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>
